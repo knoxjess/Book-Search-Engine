@@ -46,4 +46,7 @@ class AuthService {
   }
 }
 
-export default new AuthService();
+
+// eslint-disable-next-line import/no-anonymous-default-export
+const authServiceInstance = new AuthService();
+export default authServiceInstance;
