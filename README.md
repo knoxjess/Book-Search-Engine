@@ -29,6 +29,4 @@ After installing npm packages, the application will be invoked by using the foll
 npm run develop
 ```
 
-#### Heroku Deployment
 
-[Click me to see app!]()
