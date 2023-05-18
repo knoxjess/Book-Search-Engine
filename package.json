@@ -13,6 +13,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^8.0.1"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.22"
   }
 }
